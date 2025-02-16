@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm Jasper! 👋
 
-<!--
-**super-mcflurry/super-mcflurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little more about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying Data Science.
+- 🌱 I’m currently learning Blockchain Technologies.
+- 📫 How to reach me: jaspertanguanyu@gmail.com
+- ⚡ Fun fact: If life gives me lemons, I’ll open a lemonade business.
+
+
+Thanks for visiting my profile! Have a great day! 😊
